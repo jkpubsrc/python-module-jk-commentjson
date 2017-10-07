@@ -1,0 +1,7 @@
+{
+	// This is a line comment
+	"strKey": "value",
+	"intKey": 123
+	# Another comment
+}
+
