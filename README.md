@@ -6,12 +6,12 @@ Introduction
 
 This python module allows reading JSON files including comments.
 
-This module is an improved version of Vaidik Kapoor's ``commentjson`` module provided at PyPi at ``https://pypi.python.org/pypi/commentjson/``. The original version has been ported to Python 3 and the regular expressions have been improved.
+This module is an improved version of Vaidik Kapoor's ``commentjson`` module provided at PyPi at https://pypi.org/project/commentjson/ . The original version has been ported to Python 3 and the regular expressions have been improved.
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/python-module-jk-commentjson)
-* [pypi.python.org](https://pypi.python.org/pypi/jk_commentjson)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-commentjson)
+* [pypi.org](https://pypi.org/project/jk_commentjson/)
 
 Foreword
 --------
