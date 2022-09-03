@@ -10,7 +10,7 @@ This module is an improved version of Vaidik Kapoor's ``commentjson`` module pro
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/python-module-jk-commentjson)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-commentjson)
 * [pypi.python.org](https://pypi.python.org/pypi/jk_commentjson)
 
 Foreword
